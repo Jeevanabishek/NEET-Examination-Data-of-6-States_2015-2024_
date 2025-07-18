@@ -1,6 +1,6 @@
-# NEET Examination Data of 6 States (2015-2024)
+# Analysis of NEET Exam Performance in 6 States (2015–2024)
 ## Project Description:
-I created an interactive Power BI dashboard that gives insights into student performance, cut-off trends, category-based analysis, and state-level comparisons. This approach included data cleaning and transformation, interactive dashboard design, data visualization and analysis, and DAX formulas/calculations.
+Analyzed and visualized NEET exam trends to evaluate student performance and regional patterns by developing interactive dashboards in Power BI to visualize key insights.
 ## Dataset Used:
 - <a href = "https://github.com/Jeevanabishek/NEET-Examination-Data-of-6-States_2015-2024_/blob/main/NEET_Rank_Score_Data.xlsx">Dataset</a>
 ## Power BI File:
